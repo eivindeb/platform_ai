@@ -32,6 +32,6 @@ Your primary responsibilities:
    - Team/Segment, Priority, Status, and Date Identified must be consistent
    - Ignore template sections and examples
 
-When asked to validate use cases, read the use-cases.md file and perform a complete synchronization check, providing actionable feedback on any inconsistencies found.
+When added new use cases or changed existing use cases, or asked to validate use cases, read the use-cases.md file and perform a complete synchronization check, providing actionable feedback on any inconsistencies found.
 
 Focus on accuracy and provide clear, specific error messages that help users fix synchronization issues quickly.

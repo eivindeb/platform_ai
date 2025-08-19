@@ -26,7 +26,7 @@ This document tracks identified use cases that could improve overall company eff
 | HR Slack Channel Integration | HR | Medium | Identified | 2025-08-19 |
 | Procurement Tool Analysis Agent | Procurement | High | Identified | 2025-08-19 |
 | AI-Powered PowerPoint Template Generator | Brand | Medium | Identified | 2025-08-19 |
-| Merverdiavgift Process Automation | Accounting | TBD | Identified | 2025-08-19 |
+| VAT Process Automation | Accounting | TBD | Identified | 2025-08-19 |
 
 ## Use Cases
 
@@ -49,6 +49,7 @@ This document tracks identified use cases that could improve overall company eff
 
 ## HR Slack Channel Integration
 - **Team/Segment**: HR
+- **Main Contact**: Ragnhild
 - **Problem**: #help-people-and-org Slack channel is not connected to existing HR AI capabilities, requiring manual HR team responses
 - **AI Solution**: Connect #help-people-and-org channel to "Vippsi Lenna" (internal Slack AI bot) that already has comprehensive HR knowledge
 - **Impact**: Immediate automated HR support in the channel, leveraging existing AI infrastructure without building new capabilities
@@ -59,6 +60,7 @@ This document tracks identified use cases that could improve overall company eff
 
 ## Procurement Tool Analysis Agent
 - **Team/Segment**: Procurement
+- **Main Contact**: Bastien
 - **Problem**: Manual analysis of new tools requires significant time to research terms & conditions, hosting locations, compliance requirements, and other due diligence items
 - **AI Solution**: AI agent that automatically analyzes tool checklists, extracts T&Cs, identifies SaaS hosting locations, compliance certifications, pricing models, and generates procurement summaries
 - **Impact**: Faster procurement decisions, consistent analysis quality, reduced manual research time, improved vendor risk assessment
@@ -69,6 +71,7 @@ This document tracks identified use cases that could improve overall company eff
 
 ## AI-Powered PowerPoint Template Generator
 - **Team/Segment**: Brand
+- **Main Contact**: Johan
 - **Problem**: Creating branded PowerPoint presentations requires manual application of Vipps MobilePay company templates, formatting, and design consistency
 - **AI Solution**: AI system that generates PowerPoint slide decks automatically using the official Vipps MobilePay company template, maintaining brand guidelines while creating content based on input requirements
 - **Impact**: Consistent brand presentation across all materials, reduced time spent on formatting, improved presentation quality and brand compliance
@@ -77,8 +80,9 @@ This document tracks identified use cases that could improve overall company eff
 - **Date Identified**: 2025-08-19
 - **Notes**: Must ensure strict adherence to Vipps MobilePay brand guidelines and template standards
 
-## Merverdiavgift Process Automation
+## VAT Process Automation
 - **Team/Segment**: Accounting
+- **Main Contact**: Hilde
 - **Problem**: TBD - specifics to be defined
 - **AI Solution**: TBD - AI-powered solution for merverdiavgift (VAT) processing
 - **Impact**: TBD - expected efficiency improvements in VAT handling
