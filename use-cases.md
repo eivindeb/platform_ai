@@ -26,6 +26,7 @@ This document tracks identified use cases that could improve overall company eff
 | HR Slack Channel Integration | HR | Medium | Identified | 2025-08-19 |
 | Procurement Tool Analysis Agent | Procurement | High | Identified | 2025-08-19 |
 | AI-Powered PowerPoint Template Generator | Brand | Medium | Identified | 2025-08-19 |
+| Merverdiavgift Process Automation | Accounting | TBD | Identified | 2025-08-19 |
 
 ## Use Cases
 
@@ -75,4 +76,14 @@ This document tracks identified use cases that could improve overall company eff
 - **Status**: Identified
 - **Date Identified**: 2025-08-19
 - **Notes**: Must ensure strict adherence to Vipps MobilePay brand guidelines and template standards
+
+## Merverdiavgift Process Automation
+- **Team/Segment**: Accounting
+- **Problem**: TBD - specifics to be defined
+- **AI Solution**: TBD - AI-powered solution for merverdiavgift (VAT) processing
+- **Impact**: TBD - expected efficiency improvements in VAT handling
+- **Priority**: TBD
+- **Status**: Identified
+- **Date Identified**: 2025-08-19
+- **Notes**: Initial use case identified - awaiting detailed requirements and problem definition
 
