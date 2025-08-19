@@ -17,6 +17,15 @@ This document tracks identified use cases that could improve overall company eff
 - Agile Coaching
 - Communication
 - Procurement
+- Sales
+
+## Use Cases Overview
+
+| Use Case | Team/Segment | Priority | Status | Date Identified |
+|----------|--------------|----------|--------|-----------------|
+| HR Slack Channel Integration | HR | Medium | Identified | 2025-08-19 |
+| Procurement Tool Analysis Agent | Procurement | High | Identified | 2025-08-19 |
+| AI-Powered PowerPoint Template Generator | Brand | Medium | Identified | 2025-08-19 |
 
 ## Use Cases
 
@@ -56,4 +65,14 @@ This document tracks identified use cases that could improve overall company eff
 - **Status**: Identified
 - **Date Identified**: 2025-08-19
 - **Notes**: Should integrate with existing procurement workflows and compliance requirements
+
+## AI-Powered PowerPoint Template Generator
+- **Team/Segment**: Brand
+- **Problem**: Creating branded PowerPoint presentations requires manual application of Vipps MobilePay company templates, formatting, and design consistency
+- **AI Solution**: AI system that generates PowerPoint slide decks automatically using the official Vipps MobilePay company template, maintaining brand guidelines while creating content based on input requirements
+- **Impact**: Consistent brand presentation across all materials, reduced time spent on formatting, improved presentation quality and brand compliance
+- **Priority**: Medium
+- **Status**: Identified
+- **Date Identified**: 2025-08-19
+- **Notes**: Must ensure strict adherence to Vipps MobilePay brand guidelines and template standards
 
