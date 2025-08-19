@@ -37,15 +37,15 @@ This document tracks identified use cases that could improve overall company eff
 
 *Add new use cases below this line*
 
-## HR Slack Support Agent
+## HR Slack Channel Integration
 - **Team/Segment**: HR
-- **Problem**: HR team manually responds to all questions in #help-people-and-org Slack channel, creating bottlenecks and delays for employees seeking help
-- **AI Solution**: Deploy an AI agent to monitor the #help-people-and-org channel and automatically respond to common HR queries (policies, benefits, procedures, etc.)
-- **Impact**: Reduced HR response time, 24/7 availability, freed up HR staff for complex issues requiring human intervention
+- **Problem**: #help-people-and-org Slack channel is not connected to existing HR AI capabilities, requiring manual HR team responses
+- **AI Solution**: Connect #help-people-and-org channel to "Vippsi Lenna" (internal Slack AI bot) that already has comprehensive HR knowledge
+- **Impact**: Immediate automated HR support in the channel, leveraging existing AI infrastructure without building new capabilities
 - **Priority**: Medium
 - **Status**: Identified
 - **Date Identified**: 2025-08-19
-- **Notes**: Should escalate to human HR when questions are complex, sensitive, or outside knowledge base scope
+- **Notes**: Utilizes existing "Vippsi Lenna" bot functionality, only requires channel integration setup
 
 ## Procurement Tool Analysis Agent
 - **Team/Segment**: Procurement
