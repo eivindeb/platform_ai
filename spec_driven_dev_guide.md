@@ -26,7 +26,7 @@ Start by answering these key questions:
 > 💡 **Pro Tip:** The more detailed your initial description, the better your final specifications will be.
 
 ### Phase 2: Content Refinement
-**Goal:** Polish and clarify your project description
+**Goal:** Polish and clarify your project/faeture description
 
 1. **Initial Review** - Discuss your outline with team members
 2. **AI Enhancement** (Optional) - Use ChatGPT or similar AI to:
@@ -37,14 +37,14 @@ Start by answering these key questions:
 *This step helps present information more effectively and catches potential gaps.*
 
 ### Phase 3: Specification Generation
-**Goal:** Transform your project outline into formal specifications
+**Goal:** Transform your project/feature outline into formal specifications
 
 Using Claude Code environment with custom commands:
 
 #### Command 1: `/task:new`
 ```bash
 /task:new
-# Paste your refined project content
+# Paste your refined project/feature content
 ```
 **Output:** 
 - Creates `docs/` folder structure
@@ -56,7 +56,7 @@ Using Claude Code environment with custom commands:
 /task:plan [specification-file-name]
 ```
 **Output:** 
-- Generates comprehensive project plan
+- Generates comprehensive project/feature plan
 - Review recommended (can be skimmed or studied in detail)
 
 #### Command 3: `/task:todos`
@@ -67,7 +67,7 @@ Using Claude Code environment with custom commands:
 **Output:**
 - Creates detailed todo list (markdown format)
 - Organized into phases (Phase 1, Phase 2, etc.)
-- ⏱️ *Allow ~10 minutes for larger projects*
+- ⏱️ *Allow ~10 minutes for larger projects/features*
 
 > These commands are defined in `CLAUDE/USER/commands/task:*`
 
@@ -85,7 +85,7 @@ Using Claude Code environment with custom commands:
    - Use Claude Code for synchronization of the 3 files
 
 ### Phase 5: Implementation
-**Goal:** Execute the project systematically
+**Goal:** Execute the project/feature systematically
 
 1. **Start Development**
    Begin with Phase 1 tasks by telling Claude Code to start with phase 1
