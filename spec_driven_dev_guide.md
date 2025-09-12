@@ -43,7 +43,7 @@ Using Claude Code environment with custom commands:
 
 #### Command 1: `/task:new`
 ```bash
-/task new
+/task:new
 # Paste your refined project content
 ```
 **Output:** 
@@ -53,7 +53,7 @@ Using Claude Code environment with custom commands:
 
 #### Command 2: `/task:plan`
 ```bash
-/task plan [specification-file-name]
+/task:plan [specification-file-name]
 ```
 **Output:** 
 - Generates comprehensive project plan
@@ -63,6 +63,9 @@ Using Claude Code environment with custom commands:
 ```bash
 /task:todos [planning-file-name]
 ```
+
+These commands are defined in `CLAUDE/USER/commands/task:*`
+
 **Output:**
 - Creates detailed to-do list (markdown format)
 - Organized into phases (Phase 1, Phase 2, etc.)
