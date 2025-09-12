@@ -1,4 +1,4 @@
-# Spec-Driven Development: A Complete Guide
+# Spec-Driven Development: A simple How-to Guide
 
 *A systematic approach to building software projects with clarity and structure*
 
