@@ -106,7 +106,7 @@ Using Claude Code environment with custom commands:
 
 ```mermaid
 graph TD
-    A[Define Project] --> B[Refine Content]
+    A[Define Feature/Project] --> B[Refine Content]
     B --> C[Generate Specs]
     C --> D[Create Plan]
     D --> E[Build Todo List]
@@ -115,7 +115,7 @@ graph TD
     G --> H[Test & Validate]
     H --> I{More Phases?}
     I -->|Yes| J[Next Phase]
-    I -->|No| K[Project Complete]
+    I -->|No| K[Feature/Project Complete]
     J --> H
 ```
 
