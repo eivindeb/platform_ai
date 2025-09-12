@@ -133,7 +133,3 @@ graph TD
 Having a detailed specification, followed by a clear implementation plan and a todo list, provides clarity for both AI and developers. This approach ensures everyone understands what needs to be built and how to build it, significantly reducing the risk of hallucination or misinterpretation. While creating a thorough plan does take some time, it prevents the pitfalls of one-shot prompting, which often lacks clear guidance, goals, and purpose. Without a solid plan, AI may struggle to understand the intended outcome.
 
 Files like Claude.md or Cursor rules files can offer some structure, but they are weak substitutes for comprehensive feature specifications and implementation plans. Relying solely on these files increases the likelihood of confusion and hallucination. In contrast, specification-driven development establishes clear agreements and contracts about the code, allowing the team to focus on what's important and how to implement it. Nothing is more effective for clarity and alignment than a well-defined specification and plan.
-
----
-
-*Questions? Feel free to adapt this process to fit your team's specific needs and preferences.*
