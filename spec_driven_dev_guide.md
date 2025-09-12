@@ -64,12 +64,12 @@ Using Claude Code environment with custom commands:
 /task:todos [planning-file-name]
 ```
 
-These commands are defined in `CLAUDE/USER/commands/task:*`
-
 **Output:**
 - Creates detailed to-do list (markdown format)
 - Organized into phases (Phase 1, Phase 2, etc.)
 - ⏱️ *Allow ~10 minutes for larger projects*
+
+> These commands are defined in `CLAUDE/USER/commands/task:*`
 
 ### Phase 4: Review and Alignment
 **Goal:** Ensure accuracy and consistency across all documents
