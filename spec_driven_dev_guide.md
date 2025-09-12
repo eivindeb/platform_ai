@@ -6,12 +6,12 @@
 
 ## 🎯 Overview
 
-Spec-driven development is a methodology that emphasizes thorough planning and documentation before writing code. This approach helps ensure projects are well-defined, properly scoped, and efficiently executed.
+Spec-driven development is a methodology that emphasizes thorough planning and documentation before writing code. This approach helps ensure projects/features are well-defined, properly scoped, and efficiently executed.
 
 ## 📋 The Complete Process
 
-### Phase 1: Project Definition
-**Goal:** Create a comprehensive project outline
+### Phase 1: Project/Feature Definition
+**Goal:** Create a comprehensive Project/Feature outline
 
 Start by answering these key questions:
 - **What are you building?** - Clear description of the product/feature
@@ -21,7 +21,7 @@ Start by answering these key questions:
 - **Will it have a web UI?** - Interface requirements
 - **Do you need integrations?** - External services (Azure, APIs, etc.)
 
-*You can use speech-to-text tools like Twhisper to efficiently capture your thoughts and project requirements.*
+*You can use speech-to-text tools like Twhisper to efficiently capture your thoughts and project/feature requirements.*
 
 > 💡 **Pro Tip:** The more detailed your initial description, the better your final specifications will be.
 
@@ -65,7 +65,7 @@ Using Claude Code environment with custom commands:
 ```
 
 **Output:**
-- Creates detailed to-do list (markdown format)
+- Creates detailed todo list (markdown format)
 - Organized into phases (Phase 1, Phase 2, etc.)
 - ⏱️ *Allow ~10 minutes for larger projects*
 
